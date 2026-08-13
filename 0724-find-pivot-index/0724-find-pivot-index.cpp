@@ -2,7 +2,7 @@ class Solution {
 public:
     int pivotIndex(vector<int>& arr) {
         int n = arr.size();
-        vector<int> sumleft(n);
+        vector<int> sumleft(n); // mistake : i never initialized as (n)...gave me runtime error
         vector<int> sumright(n);
         sumleft[0]=0;
         sumright[n-1]=0;
