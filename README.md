@@ -43,4 +43,16 @@ This Are All my DSA problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/malipurva2006-gif/DSA/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/malipurva2006-gif/DSA/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/malipurva2006-gif/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/malipurva2006-gif/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
