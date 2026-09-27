@@ -47,6 +47,7 @@ This Are All my DSA problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/malipurva2006-gif/DSA/tree/master/0069-sqrtx) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malipurva2006-gif/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +56,8 @@ This Are All my DSA problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/malipurva2006-gif/DSA/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malipurva2006-gif/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
