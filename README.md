@@ -47,6 +47,7 @@ This Are All my DSA problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/malipurva2006-gif/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/malipurva2006-gif/DSA/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malipurva2006-gif/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
@@ -60,4 +61,12 @@ This Are All my DSA problems
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malipurva2006-gif/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/malipurva2006-gif/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/malipurva2006-gif/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
