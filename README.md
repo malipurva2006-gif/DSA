@@ -13,6 +13,7 @@ This Are All my DSA problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/malipurva2006-gif/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/malipurva2006-gif/DSA/tree/master/0020-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/malipurva2006-gif/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/malipurva2006-gif/DSA/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/malipurva2006-gif/DSA/tree/master/0844-backspace-string-compare) |
@@ -33,6 +34,7 @@ This Are All my DSA problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/malipurva2006-gif/DSA/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/malipurva2006-gif/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -69,4 +71,8 @@ This Are All my DSA problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/malipurva2006-gif/DSA/tree/master/0231-power-of-two) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/malipurva2006-gif/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
